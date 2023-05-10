@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Júlia Moreira 📚
+## Welcome to my profile!
 
  <div>
    <a href="https://github.com/juliamoreiral">
